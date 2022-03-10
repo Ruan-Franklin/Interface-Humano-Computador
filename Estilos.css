@@ -1,0 +1,130 @@
+.backgoundColorNav {
+    background-color:  #061b27;
+    color: white;
+}
+
+.textNav {
+    color: white !important;
+    font-size: 25px;
+}
+
+.nav-item {
+    padding: 0px 10px;
+}
+
+.navbar {
+    padding: 20px 100px;
+    position: fixed;
+    width: 100%;
+}
+
+.divLogo {
+    padding-right: 50px;
+}
+
+.heightFull {
+    height: 100vh;
+}
+
+.sectionOne {
+    padding-top: 93px;
+    background-color: #11141b
+    ;
+}
+
+.titleSectionOne {
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 34px;
+}
+
+.subTitleSectionOne {
+    color: white;
+    font-size: 30px;
+    margin: 0px;
+    margin-bottom: 34px;
+}
+
+.divContentSection {
+    padding: 0px 100px;
+}
+
+.btnSectionOneContact {
+    background-color: #00bec9;
+    border: none;
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 30px;
+}
+
+.btnSectionOneContact:hover {
+    background-color: #00bec9;
+}
+
+.btnSectionOneContact:focus {
+    background-color: #00bec9;
+}
+
+.btnSectionOneService {
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.divTextSectionOne {
+    margin-right: 40px;
+}
+/* #00bec9 */
+
+.btnSectionTwo {
+    background-color:#115279;
+    border: none;
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.btnSectionTwo:hover {
+    background-color: #9802fc;
+}
+
+.btnSectionTwo:focus {
+    background-color: #fcc302;
+}
+
+.titleSectionTwo {
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 34px;
+}
+.heightFull{
+
+    padding-top: 93px;
+    background-color: #11141b
+    ;}
+
+.subTitleSectionTwo {
+    color: white;
+    font-size: 30px;
+    margin: 0px;
+    margin-bottom: 34px;
+}
+
+
+
+.colorBackSectionTwo {
+    background-color: #d8e5ff;
+    width: 550px;
+}
+
+.imgSectionTwo {
+    opacity: 0.6;
+    width: 100%;
+}
+
+.paddingFirstColSectionTwo {
+    padding-right: 100px;
+}
